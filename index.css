@@ -1,0 +1,942 @@
+.athlete-child,
+.rectangle-7-copy {
+  position: absolute;
+  height: 26.64%;
+  width: 100%;
+  top: 33.4%;
+  right: 0;
+  bottom: 39.96%;
+  left: 0;
+  background-color: var(--color-ghostwhite);
+}
+.rectangle-7-copy {
+  height: 30.91%;
+  top: 60.04%;
+  bottom: 9.05%;
+  background-color: var(--color-slateblue-200);
+}
+.athlets,
+.connection {
+  margin: 0;
+  position: absolute;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.athlets {
+  width: 19.69%;
+  top: calc(50% - 480.5px);
+  left: 52.5%;
+  font-size: var(--font-size-71xl);
+  color: var(--color-gainsboro);
+}
+.connection {
+  width: 12.45%;
+  top: calc(50% - 316.5px);
+  left: 54.17%;
+  font-size: inherit;
+  letter-spacing: 1.5px;
+  color: var(--color-silver);
+}
+.connect-with-coaches,
+.resources-and-tools,
+.work-with-other {
+  position: absolute;
+  left: 52.5%;
+  font-size: var(--font-size-xl);
+  line-height: 28px;
+  display: inline-block;
+}
+.connect-with-coaches {
+  width: 31.3%;
+  top: calc(50% - 243.5px);
+}
+.resources-and-tools,
+.work-with-other {
+  width: 37.34%;
+  top: 45.47%;
+}
+.resources-and-tools {
+  top: 74.92%;
+  color: var(--color-white);
+}
+.athlete-item {
+  position: absolute;
+  height: 0.52%;
+  width: 0.99%;
+  top: 20.19%;
+  right: 46.46%;
+  bottom: 79.29%;
+  left: 52.55%;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-slateblue-100);
+}
+.collaboration,
+.growth {
+  margin: 0;
+  position: absolute;
+  left: 54.17%;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  color: var(--color-silver);
+  display: inline-block;
+}
+.collaboration {
+  width: 15.73%;
+  top: calc(50% - 106.5px);
+  letter-spacing: 1.5px;
+}
+.growth {
+  width: 8.28%;
+  top: calc(50% + 176.5px);
+}
+.growth,
+.span {
+  letter-spacing: 1.5px;
+}
+.div {
+  top: 17.59%;
+  left: 52.5%;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+}
+.athlete-inner,
+.div,
+.div1 {
+  position: absolute;
+  width: 1.15%;
+}
+.athlete-inner {
+  height: 0.52%;
+  top: 42.04%;
+  right: 46.3%;
+  bottom: 57.44%;
+  left: 52.55%;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-slateblue-100);
+}
+.div1 {
+  top: 39.44%;
+  left: 52.5%;
+  font-size: var(--font-size-lg);
+  letter-spacing: 1.5px;
+  display: inline-block;
+}
+.div2,
+.rectangle-input {
+  position: absolute;
+  width: 1.15%;
+  left: 52.55%;
+}
+.rectangle-input {
+  border: 0;
+  background-color: var(--color-white);
+  height: 0.52%;
+  top: 71.59%;
+  right: 46.3%;
+  bottom: 27.89%;
+  border-radius: var(--br-10xs-5);
+}
+.div2 {
+  top: 68.99%;
+  font-size: var(--font-size-lg);
+  letter-spacing: 1.5px;
+  display: inline-block;
+}
+.footballer-1-icon {
+  position: absolute;
+  height: 98.86%;
+  top: 1.14%;
+  bottom: 0;
+  left: 175px;
+  max-height: 100%;
+  width: 678px;
+  object-fit: cover;
+}
+.athlete {
+  position: absolute;
+  top: 24px;
+  left: 0;
+  width: 1920px;
+  height: 961px;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+.rectangle-7-copy-2,
+.rectangle-7-copy-3 {
+  position: absolute;
+  height: 24.55%;
+  width: 100%;
+  top: 48.6%;
+  right: 0;
+  bottom: 26.85%;
+  left: 0;
+  background-color: var(--color-ghostwhite);
+}
+.rectangle-7-copy-3 {
+  height: 26.85%;
+  top: 73.15%;
+  bottom: 0;
+  background-color: var(--color-gray);
+}
+.connection1,
+.players {
+  margin: 0;
+  position: absolute;
+  font-weight: 400;
+  font-family: inherit;
+}
+.players {
+  top: calc(50% - 375px);
+  left: 16.72%;
+  font-size: var(--font-size-71xl);
+  color: var(--color-gainsboro);
+}
+.connection1 {
+  top: calc(50% - 202px);
+  left: 18.44%;
+  font-size: inherit;
+  letter-spacing: 1.5px;
+  color: var(--color-silver);
+}
+.connect-with-talente,
+.save-your-time,
+.work-with-recruiter {
+  position: absolute;
+  width: 29.74%;
+  top: 36.07%;
+  left: 16.77%;
+  font-size: var(--font-size-xl);
+  line-height: 28px;
+  display: inline-block;
+}
+.save-your-time,
+.work-with-recruiter {
+  width: 37.34%;
+  top: 60.12%;
+}
+.save-your-time {
+  top: 88.18%;
+  left: 16.82%;
+  color: var(--color-white);
+}
+.rectangle-4-copy {
+  position: absolute;
+  height: 0.5%;
+  width: 0.99%;
+  top: 32.77%;
+  right: 82.19%;
+  bottom: 66.73%;
+  left: 16.82%;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-slateblue-100);
+}
+.collaboration-copy {
+  margin: 0;
+  position: absolute;
+  top: calc(50% + 38px);
+  left: 18.44%;
+  font-size: inherit;
+  letter-spacing: 1.5px;
+  font-weight: 400;
+  font-family: inherit;
+  color: var(--color-silver);
+}
+.copy,
+.growth1 {
+  position: absolute;
+}
+.growth1 {
+  margin: 0;
+  top: calc(50% + 318px);
+  left: 18.49%;
+  font-size: inherit;
+  letter-spacing: 1.5px;
+  font-weight: 400;
+  font-family: inherit;
+  color: var(--color-silver);
+}
+.copy {
+  top: calc(50% - 197px);
+  left: 16.77%;
+  font-size: var(--font-size-lg);
+}
+.rectangle-4-copy-2 {
+  position: absolute;
+  height: 0.5%;
+  width: 1.15%;
+  top: 56.81%;
+  right: 82.03%;
+  bottom: 42.69%;
+  left: 16.82%;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-slateblue-100);
+}
+.copy1 {
+  position: absolute;
+  top: calc(50% + 43px);
+  left: 16.77%;
+  font-size: var(--font-size-lg);
+  letter-spacing: 1.5px;
+}
+.rectangle-4-copy-3 {
+  border: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  height: 0.5%;
+  width: 1.15%;
+  top: 84.97%;
+  right: 81.98%;
+  bottom: 14.53%;
+  left: 16.88%;
+  border-radius: var(--br-10xs-5);
+}
+.copy2 {
+  position: absolute;
+  top: calc(50% + 324px);
+  left: 16.82%;
+  font-size: var(--font-size-lg);
+  letter-spacing: 1.5px;
+  color: #8f6be8;
+}
+.player-child,
+.player-item {
+  position: absolute;
+  top: 36px;
+  left: 1639px;
+  width: 281px;
+  height: 88px;
+  overflow: hidden;
+}
+.player-item {
+  top: 195px;
+  left: 1797px;
+  width: 123px;
+  height: 42px;
+}
+.player,
+.player-inner {
+  position: absolute;
+  top: 0;
+  left: 804px;
+  width: 991px;
+  height: 815px;
+}
+.player {
+  top: 898px;
+  left: 0;
+  width: 1920px;
+  height: 998px;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+.player-tablet-child,
+.rectangle-7-copy1 {
+  position: absolute;
+  top: 315px;
+  left: 0;
+  background-color: var(--color-ghostwhite);
+  width: 768px;
+  height: 235px;
+}
+.rectangle-7-copy1 {
+  top: 550px;
+  background-color: var(--color-gray);
+  height: 207px;
+}
+.connection2,
+.players1 {
+  position: absolute;
+  top: 19px;
+  left: 31px;
+  font-size: var(--font-size-71xl);
+  color: var(--color-gainsboro);
+}
+.connection2 {
+  top: 158px;
+  left: 65px;
+  font-size: var(--font-size-17xl);
+  letter-spacing: 1.5px;
+  color: var(--color-silver);
+}
+.connect-with-talente1,
+.save-your-time1,
+.work-with-recruiter1 {
+  position: absolute;
+  top: 221px;
+  left: 33px;
+  line-height: 28px;
+  display: inline-block;
+  width: 432px;
+}
+.save-your-time1,
+.work-with-recruiter1 {
+  top: 429px;
+}
+.save-your-time1 {
+  top: 657px;
+  color: var(--color-white);
+  width: 455px;
+}
+.player-tablet-item {
+  position: absolute;
+  top: 188px;
+  left: 34px;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-slateblue-100);
+  width: 19px;
+  height: 5px;
+}
+.collaboration1 {
+  top: 366px;
+  left: 65px;
+  font-size: var(--font-size-17xl);
+  letter-spacing: 1.5px;
+  color: var(--color-silver);
+}
+.collaboration1,
+.div3,
+.growth2 {
+  position: absolute;
+}
+.growth2 {
+  top: 594px;
+  left: 65px;
+  font-size: var(--font-size-17xl);
+  letter-spacing: 1.5px;
+  color: var(--color-silver);
+}
+.div3 {
+  top: 163px;
+  left: 33px;
+}
+.player-tablet-inner {
+  position: absolute;
+  top: 396px;
+  left: 34px;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-slateblue-100);
+  width: 22px;
+  height: 5px;
+}
+.div4 {
+  position: absolute;
+  top: 371px;
+  left: 33px;
+  letter-spacing: 1.5px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 625px;
+  left: 34px;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-white);
+  width: 22px;
+  height: 5px;
+}
+.div5 {
+  position: absolute;
+  top: 600px;
+  left: 33px;
+  letter-spacing: 1.5px;
+  color: #8765dd;
+}
+.path-45-copy {
+  position: absolute;
+  top: 129.67px;
+  left: 724px;
+  width: 85.78px;
+  height: 100.49px;
+  display: none;
+}
+.path-45-icon {
+  position: absolute;
+  top: 263.89px;
+  left: 159px;
+  width: 178.88px;
+  height: 207.22px;
+}
+.path {
+  position: absolute;
+  top: 71px;
+  left: 539px;
+  border-radius: var(--br-81xl);
+  width: 3px;
+}
+.boolean-operation-child,
+.path,
+.path-parent {
+  background-color: var(--color-slateblue-300);
+  border: 1px solid var(--color-mediumpurple);
+  box-sizing: border-box;
+  height: 17px;
+}
+.boolean-operation-child {
+  position: absolute;
+  top: 78px;
+  left: 547px;
+  border-radius: var(--br-81xl);
+  width: 3px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.path-parent {
+  position: relative;
+  width: 17px;
+}
+.path1,
+.rectangle-34-copy-child {
+  position: absolute;
+  border-radius: var(--br-81xl);
+  width: 3px;
+  opacity: 0.3;
+  mix-blend-mode: normal;
+}
+.path1 {
+  top: 88px;
+  left: 561px;
+  background-color: var(--color-slateblue-300);
+  border: 1px solid var(--color-mediumpurple);
+  box-sizing: border-box;
+  height: 17px;
+}
+.rectangle-34-copy-child {
+  top: 95px;
+  left: 569px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.boolean-operation-item,
+.path2,
+.rectangle-34-copy,
+.rectangle-34-copy-child {
+  background-color: var(--color-slateblue-300);
+  border: 1px solid var(--color-mediumpurple);
+  box-sizing: border-box;
+  height: 17px;
+}
+.rectangle-34-copy {
+  position: relative;
+  width: 17px;
+  opacity: 0.3;
+  mix-blend-mode: normal;
+}
+.boolean-operation-item,
+.path2 {
+  position: absolute;
+  top: 281px;
+  left: 719px;
+  border-radius: var(--br-81xl);
+  width: 3px;
+}
+.boolean-operation-item {
+  top: 288px;
+  left: 727px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.basketball-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 691px;
+  height: 568px;
+  object-fit: cover;
+}
+.path-45-parent,
+.player-tablet {
+  position: absolute;
+  top: 0;
+  left: 331px;
+  width: 691px;
+  height: 568px;
+}
+.player-tablet {
+  top: 852px;
+  left: 0;
+  width: 1022px;
+  height: 757px;
+  display: none;
+}
+.athlete-tablet-child,
+.rectangle-7-copy2 {
+  position: absolute;
+  top: 296px;
+  left: 161px;
+  background-color: var(--color-ghostwhite);
+  width: 768px;
+  height: 235px;
+}
+.rectangle-7-copy2 {
+  top: 531px;
+  background-color: var(--color-slateblue-200);
+  height: 207px;
+}
+.athlets1,
+.connection3 {
+  position: absolute;
+  top: 0;
+  left: 452px;
+  font-size: var(--font-size-71xl);
+  color: var(--color-gainsboro);
+}
+.connection3 {
+  top: 147px;
+  left: 484px;
+  font-size: var(--font-size-17xl);
+  letter-spacing: 1.5px;
+  color: var(--color-silver);
+}
+.connect-with-coaches1,
+.resources-and-tools1,
+.work-with-other1 {
+  position: absolute;
+  top: 210px;
+  left: 452px;
+  line-height: 28px;
+  display: inline-block;
+  width: 457px;
+}
+.resources-and-tools1,
+.work-with-other1 {
+  top: 389px;
+  width: 446.2px;
+}
+.resources-and-tools1 {
+  top: 624px;
+  color: var(--color-white);
+}
+.athlete-tablet-item {
+  position: absolute;
+  top: 177px;
+  left: 453px;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-slateblue-100);
+  width: 19px;
+  height: 5px;
+}
+.collaboration2 {
+  top: 326px;
+  left: 484px;
+  font-size: var(--font-size-17xl);
+  letter-spacing: 1.5px;
+  color: var(--color-silver);
+}
+.collaboration2,
+.div6,
+.growth3 {
+  position: absolute;
+}
+.growth3 {
+  top: 561px;
+  left: 484px;
+  font-size: var(--font-size-17xl);
+  letter-spacing: 1.5px;
+  color: var(--color-silver);
+}
+.div6 {
+  top: 152px;
+  left: 452px;
+}
+.athlete-tablet-inner {
+  position: absolute;
+  top: 356px;
+  left: 453px;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-slateblue-100);
+  width: 22px;
+  height: 5px;
+}
+.div7 {
+  position: absolute;
+  top: 331px;
+  left: 452px;
+  letter-spacing: 1.5px;
+}
+.athlete-tablet-child1 {
+  position: absolute;
+  top: 592px;
+  left: 453px;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-white);
+  width: 22px;
+  height: 5px;
+}
+.div8 {
+  position: absolute;
+  top: 567px;
+  left: 452px;
+  letter-spacing: 1.5px;
+}
+.athlete-tablet,
+.group-icon {
+  position: absolute;
+  top: 21px;
+  left: 0;
+  width: 498px;
+  height: 718px;
+}
+.athlete-tablet {
+  top: 81px;
+  left: -161px;
+  width: 929px;
+  height: 739px;
+  display: none;
+}
+.rectangle-7-copy-21 {
+  position: absolute;
+  top: 296px;
+  left: 19px;
+  background-color: var(--color-ghostwhite);
+  width: 320px;
+  height: 238px;
+}
+.players2,
+.save-your-time2 {
+  position: absolute;
+  top: 0;
+  left: 37px;
+}
+.save-your-time2 {
+  top: 53px;
+  left: 0;
+  line-height: 28px;
+  display: inline-block;
+  width: 284px;
+}
+.div9,
+.growth5 {
+  position: absolute;
+  letter-spacing: 1.5px;
+}
+.growth5 {
+  top: 0;
+  left: 28px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-silver);
+}
+.div9 {
+  top: 7px;
+  left: 0;
+  font-size: var(--font-size-sm);
+}
+.collaboration3,
+.growth4 {
+  position: absolute;
+  top: 0;
+  left: 621px;
+  width: 284px;
+  height: 113px;
+  display: none;
+}
+.collaboration3 {
+  left: 313px;
+}
+.save-your-time4 {
+  position: absolute;
+  top: 53px;
+  left: 0;
+  line-height: 20px;
+  display: inline-block;
+  width: 284px;
+}
+.div11 {
+  position: absolute;
+  top: 7px;
+  left: 0;
+  letter-spacing: 1.5px;
+}
+.connection4,
+.second-carousel {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 284px;
+  height: 113px;
+  font-size: var(--font-size-sm);
+}
+.second-carousel {
+  top: 368px;
+  left: 37px;
+  width: 905px;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+}
+.path3,
+.rectangle-34-copy-item {
+  position: absolute;
+  top: 27px;
+  left: 6px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-slateblue-300);
+  border: 1px solid var(--color-mediumpurple);
+  box-sizing: border-box;
+  width: 3px;
+  height: 17px;
+  opacity: 0.3;
+  mix-blend-mode: normal;
+}
+.rectangle-34-copy-item {
+  top: 34px;
+  left: 14px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.slider-icon {
+  position: absolute;
+  top: 494px;
+  left: 152px;
+  width: 54px;
+  height: 10px;
+}
+.players-mobile,
+.players-mobile-child {
+  position: absolute;
+  top: 81px;
+  left: 22px;
+  width: 302px;
+  height: 250px;
+}
+.players-mobile {
+  top: 580px;
+  left: 0;
+  width: 339px;
+  height: 534px;
+  display: none;
+  font-size: var(--font-size-31xl);
+  color: var(--color-gainsboro);
+}
+.athlets-mobile-child {
+  position: absolute;
+  top: 296px;
+  left: 0;
+  background-color: var(--color-ghostwhite);
+  width: 320px;
+  height: 284px;
+}
+.athlets-icon,
+.athlets-mobile-item {
+  position: absolute;
+  top: 70px;
+  left: 52px;
+  width: 218px;
+  height: 281px;
+}
+.athlets-icon {
+  top: 540px;
+  left: 133px;
+  width: 54px;
+  height: 10px;
+}
+.athlets2 {
+  position: absolute;
+  top: 0;
+  left: 18px;
+}
+.connection-child {
+  position: absolute;
+  top: 25px;
+  left: 1px;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-slateblue-100);
+  width: 17px;
+  height: 4px;
+}
+.p {
+  margin: 0;
+}
+.connection5 {
+  position: relative;
+  width: 284px;
+  height: 143px;
+}
+.work-with-other3 {
+  position: absolute;
+  top: 53px;
+  left: 0;
+  display: inline-block;
+  width: 284px;
+}
+.collaboration5 {
+  font-size: 15px;
+}
+.collaboration5,
+.growth8 {
+  position: relative;
+  width: 284px;
+  height: 143px;
+  display: none;
+}
+.first-carousel {
+  position: absolute;
+  top: 374px;
+  left: 18px;
+  width: 284px;
+  height: 157px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 29px;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+}
+.athlets-mobile {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 320px;
+  height: 580px;
+  display: none;
+  font-size: var(--font-size-31xl);
+  color: var(--color-gainsboro);
+}
+.desktop {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1867px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+@media screen and (max-width: 960px) {
+  .player {
+    display: flex;
+  }
+}
+@media screen and (max-width: 320px) {
+  .athlete,
+  .player,
+  .player-tablet,
+  .athlete-tablet {
+    display: none !important;
+  }
+  .athlets-mobile,
+  .players-mobile {
+    display: flex;
+  }
+  .desktop {
+    height: 1133px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .athlete,
+  .player {
+    display: none;
+  }
+  .athlete-tablet,
+  .player-tablet {
+    display: flex;
+  }
+  .desktop {
+    height: 1609px;
+  }
+}
